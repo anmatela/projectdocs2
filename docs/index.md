@@ -1,6 +1,3 @@
 # Project front page
 
-
-This is default page for OPF-based project environment.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rw9JVJZ0CnM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+* [Key Requirements](https://github.com/anmatela/projectdocs2/blob/568870210c2a66a04e8f5ccfe7234b7db8d363dc/docs/20-Requirement-management/key-requirements.md)
